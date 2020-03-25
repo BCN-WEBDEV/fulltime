@@ -1,32 +1,23 @@
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# WebDev FT Cohort 
 
-*This text will be italic*
-_This will also be italic_
+### Zoom for the class room
 
-**This text will be bold**
-__This will also be bold__
+Join the class room: [here](http://zoom.com)   
+Make sure you have downloaded [Zoom Client](https://zoom.us/download)
 
-_You **can** combine them_
+### Slack workspaces
+
+* Main workspace URL: [ironhack.slack.com](ironhack.slack.com)
+* My cohort workspace URL: [ironhackbcnweb-0320.slack.com](ironhackbcnweb-0320.slack.com)
+
+### Google Drive
+
+Public drive for you to share and edit: [here](http://zoom.com)  
 
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-  
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-   
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+## Some guidelines
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+Make sure to join class **on time**.  
 
-I think you should use an
-`<addr>` element here instead.
+Also make sure that you are muted during lectures and enable your camera on.
+
