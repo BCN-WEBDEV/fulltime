@@ -30,7 +30,8 @@
    
 ### Google Drive
 
-Public drive for you to share and edit: [here](http://zoom.com)  
+( Public drive for you to share and edit: [here](http://zoom.com)  
+* Check your pair for the day [here](https://docs.google.com/spreadsheets/d/1SZAabkq_F-quNwALLR7go7D6fdK8PNuXaK583EYpfSg/edit?usp=drive_web&ouid=116241501355369925679) 
 
 
 
