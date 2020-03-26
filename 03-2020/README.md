@@ -2,7 +2,7 @@
 
 ### Zoom for the class room
 
-* Join the class room: [here](http://zoom.com)   
+* Join the class room: [here](https://zoom.us/j/119028462)   
 * Make sure you have downloaded [Zoom Client](https://zoom.us/download).
 
 #### Some guidelines
@@ -30,7 +30,7 @@
    
 ### Google Drive
 
-( Public drive for you to share and edit: [here](http://zoom.com)  
+* Public drive for you to share and edit: [here](https://drive.google.com/drive/folders/1bOwu5rNdtj_SiiwdgIg44usuduV4sLoK)  
 * Check your pair for the day [here](https://docs.google.com/spreadsheets/d/1SZAabkq_F-quNwALLR7go7D6fdK8PNuXaK583EYpfSg/edit?usp=drive_web&ouid=116241501355369925679) 
 
 
