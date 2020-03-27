@@ -27,7 +27,15 @@ Slack will be the main form of written communication (help requests, links, cool
 
 * Global workspace URL: _**ironhack.slack.com**_
 * My cohort workspace URL: _**ironhackbcnweb-0320.slack.com**_
-  
+   Channels: #web-class #help #resources
+
+---
+   
+### Student Portal
+
+* Contents and schedule: [my.ironhack.com](my.ironhack.com)
+
+
 ---
    
 ### Google Drive
