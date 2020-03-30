@@ -38,7 +38,7 @@ Slack will be the main form of written communication (help requests, links, cool
    
 ### Student Portal
 
-* Course materials and schedule: [my.ironhack.com](my.ironhack.com)
+* Course materials and schedule: [my.ironhack.com](https://my.ironhack.com/)
 
 
 ---
